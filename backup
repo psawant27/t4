@@ -1,0 +1,1000 @@
+ 1126  sudo systemctl status jenkins
+ 1127  touch new.py
+ 1128  vi new.py
+ 1129  git init
+ 1130  echo hi
+ 1131  date
+ 1132  time
+ 1133  uptime
+ 1134  cal
+ 1135  cat
+ 1136  tty
+ 1137  cat echo time
+ 1138  ip
+ 1139  ifconfig
+ 1140  ip address
+ 1141  ifconfig -a
+ 1142  pr
+ 1143  ipstat
+ 1144  lpstat
+ 1145  lp
+ 1146  ping
+ 1147  ping ipaddress
+ 1148  ping ip address
+ 1149  ping ip
+ 1150  pr
+ 1151  pr --version
+ 1152  Ip
+ 1153  ip
+ 1154  ipr
+ 1155  iprm
+ 1156  which
+ 1157  ping -ipaddress
+ 1158  ping -ip address
+ 1159  ping cal
+ 1160  ping 192.168.10.188
+ 1161  history
+ 1162  ipstat google.com
+ 1163  ipr google.com
+ 1164  whoami
+ 1165  mail
+ 1166  man ipr
+ 1167  man
+ 1168  man man
+ 1169  ipr google.com
+ 1170  ipq
+ 1171  lpq  -P lp0
+ 1172  lpq  -Plp0
+ 1173  ipq  -Plp0
+ 1174  ipq  -Pip0
+ 1175  ipq -Pip0
+ 1176  ip address
+ 1177  iplink
+ 1178  lpstat
+ 1179  lpstat google.com
+ 1180  lpr
+ 1181  lp
+ 1182  cal
+ 1183  tty
+ 1184  history desktop
+ 1185  history 11.png
+ 1186  history 11
+ 1187  ls -al ~/.ssh
+ 1188  cat id_rsa.pub
+ 1189  cd ~/.ssh
+ 1190  cat id_rsa.pub
+ 1191  cd Desktop
+ 1192  mkdir "Experiment 3"
+ 1193  cd Experiment\ 3/
+ 1194  git init
+ 1195  touch oddeven.py
+ 1196  gedit oddeven.py 
+ 1197  python oddeven.py 
+ 1198  python3 oddeven.py 
+ 1199  touch palindrome.py
+ 1200  gedit palindrome.py
+ 1201  python3 palindrome.py 
+ 1202  clear
+ 1203  ls
+ 1204  clear
+ 1205  history
+ 1206  git init
+ 1207  git config
+ 1208  git config --global user.email "atharva.nikte@somaiya.edu"
+ 1209  git config --global user.name "Atharva Nikte"
+ 1210  git status
+ 1211  git add oddeven.py
+ 1212  git add palindrome.py 
+ 1213  git status
+ 1214  git commit -m "Added Python files"
+ 1215  git status
+ 1216  git remote add origin https://github.com/atharvanikte/DevOps.git
+ 1217  git push -u origin main
+ 1218  git branch -M main
+ 1219  git push -u origin main
+ 1220  git push -u origin master
+ 1221  git push origin main
+ 1222  git branch -m exp3
+ 1223  git push -u exp3
+ 1224  git push origin exp3
+ 1225  ssh-keygen -t rsa -b 4096 -C "atharvanikte@github.com"
+ 1226  git branch
+ 1227  git branch -r
+ 1228  git status
+ 1229  git add myssh.pub
+ 1230  git add myssh.pub.pub
+ 1231  sudo ssh -T atharvanikte@gmail.com
+ 1232  sudo ssh -T atharva.nikte@somaiya.edu.com
+ 1233  sudo ssh -T atharva.nikte@somaiya.edu
+ 1234  sudo ssh -T atharvanikte@github.com
+ 1235  ssh-keygen -o -t rsa -C "atharvanikte@somaiya.edu"
+ 1236  git push origin master
+ 1237  git remote add origin https://github.com/atharvanikte/DevOps.git
+ 1238  git push -u origin main
+ 1239  it branch -M main
+ 1240  git branch -M main
+ 1241  git push -u origin main
+ 1242  git pull -u origin main
+ 1243  git pull origin main
+ 1244  git status
+ 1245  ls
+ 1246  git push -u origin main
+ 1247  rm .git/
+ 1248  rmdir .git/
+ 1249  sudo rmdir .git/
+ 1250  history
+ 1251  git remote add origin git@github.com:atharvanikte/DevOps-Experiment1.git
+ 1252  git remote rm origin
+ 1253  git remote -v
+ 1254  git remote add origin git@github.com:atharvanikte/DevOps-Experiment1.git
+ 1255  git config --global user.email "atharva.nikte@somaiya.edu"
+ 1256  git config --global user.name "Atharva Nikte"
+ 1257  git status
+ 1258  git add oddeven.py 
+ 1259  git add palindrome.py 
+ 1260  git status
+ 1261  git commit -m "First commit"
+ 1262  git push -u origin master
+ 1263  git push -u origin main
+ 1264  git branch -M main
+ 1265  git push -u origin main
+ 1266  git branch -M main
+ 1267  git push -u origin main
+ 1268  git remote -v
+ 1269  git remote add origin git@github.com:atharvanikte/DevOps-Experiment1.git
+ 1270  git branch -M main
+ 1271  git push -u origin main
+ 1272  git remote rm origin
+ 1273  git init
+ 1274  git status
+ 1275  git add oddeven.py 
+ 1276  git add palindrome.py 
+ 1277  git commit -m "First Commit"
+ 1278  git remote add origin git@github.com:atharvanikte/DevOps-Experiment1.git
+ 1279  git branch -M main
+ 1280  git push -u origin main
+ 1281  git remote rm origin
+ 1282  rmdir .git/
+ 1283  clear
+ 1284  git init
+ 1285  git config --global user.email "atharva.nikte@somaiya.edu"
+ 1286  git config --global user.name "Atharva Nikte"
+ 1287  git status
+ 1288  git add oddeven.py 
+ 1289  git add palindrome.py 
+ 1290  git commit -m "first commit"
+ 1291  git remote add origin https://github.com/atharvanikte/DevOps-Experiment1.git
+ 1292  git branch -M main
+ 1293  git push -u origin main
+ 1294  git init
+ 1295  git add README.md
+ 1296  git commit -m "first commit"
+ 1297  git remote add origin https://github.com/sakshiupadhyayy/test1.git
+ 1298  git push -u origin master
+ 1299  sudo systemctl enable jenkins
+ 1300  sudo systemctl start jenkins
+ 1301  sudo systemctl status jenkins
+ 1302  git init
+ 1303  systemctl restart jenkins
+ 1304  cat ss
+ 1305  cat bin
+ 1306  ls
+ 1307  cat exp9.c
+ 1308  cat stk.cpp
+ 1309  help
+ 1310  man exp9.c
+ 1311  man
+ 1312  which 
+ 1313  which exp9.c
+ 1314  history
+ 1315  uptime
+ 1316  id
+ 1317  who am i
+ 1318  whoami
+ 1319  pr
+ 1320  who
+ 1321  pwd
+ 1322  clear
+ 1323  lb
+ 1324  lv
+ 1325  ls
+ 1326  rm exp1.c
+ 1327  rm expt1.c
+ 1328  lb
+ 1329  ls
+ 1330  man
+ 1331  man 
+ 1332  who
+ 1333  lasr\t
+ 1334  last
+ 1335  mkdir
+ 1336  gitlog
+ 1337  git log
+ 1338  git init
+ 1339  git status
+ 1340  git commit -m "first commit"
+ 1341  git log
+ 1342  ls
+ 1343  git status
+ 1344  git commit -test
+ 1345  git add test
+ 1346  vi editor
+ 1347  git clone https://github.com/Vishald861/java.git
+ 1348  git push palindrome.java
+ 1349  git push java
+ 1350  git push https://github.com/Vishald861/java.git
+ 1351  git remote 
+ 1352  git push https://github.com/Vishald861/java.git
+ 1353  git log
+ 1354  git push https://github.com/Vishald861/java.git
+ 1355  git commit java
+ 1356  git remote origin
+ 1357  git remote add test
+ 1358  git remote origin
+ 1359  git commit -m "first commit"
+ 1360  git init
+ 1361  git add README.md
+ 1362  git commit -m "first commit"
+ 1363  git remote add origin https://github.com/Vishald861/vishal.git
+ 1364  git remote add origin https://github.com/Vishald861/java.git
+ 1365  git commit
+ 1366  git remote add origin " https://github.com/Vishald861/java.git"
+ 1367  vi palindrome.java
+ 1368  vim
+ 1369  cat /etc/hosts
+ 1370  cat /etc/resolv.conf
+ 1371  resolvectl status
+ 1372  resolvectl
+ 1373  cat /etc/NetworkManager/NetworkManager.conf 
+ 1374  cat /etc/resolv.conf 
+ 1375  ifconfig
+ 1376  sudo cat /etc/resolv.conf
+ 1377  ls /etc/network
+ 1378  cd /etc/network
+ 1379  ls
+ 1380  ls if-down.d
+ 1381  ls if-post-down.d/
+ 1382  ls if-pre-up.d/
+ 1383  ls if-up.d/
+ 1384  cd if-pre-up.d/
+ 1385  ls
+ 1386  cat iptablesload 
+ 1387  cat /etc/iptables.rules
+ 1388  clea
+ 1389  clear
+ 1390  cd
+ 1391  cd /etc/network
+ 1392  ls
+ 1393  ls -la
+ 1394  ifupdown
+ 1395  ifstate
+ 1396  cat /run/network/ifstate
+ 1397  ls /run/network
+ 1398  ls /run/
+ 1399  ls /run/NetworkManager/
+ 1400  ls /etc/network
+ 1401  journalctl -u NetworkManager
+ 1402  sudo nano /etc/resolv.conf 
+ 1403  sudo nano /etc/NetworkManager/NetworkManager.conf 
+ 1404  ls /etc/NetworkManager
+ 1405  sudo su
+ 1406  cat /etc/init.d/networking
+ 1407  cat /etc/init.d/network-manager 
+ 1408  git log --1
+ 1409  clear
+ 1410  git show commit_ID
+ 1411  git show commitid
+ 1412  git show --commit_ID
+ 1413  clear
+ 1414  git log
+ 1415  git log 9148311fbfd51077f39b62bf03a0238944a3e912
+ 1416  history
+ 1417  git log -2
+ 1418  mkdir MyRepo
+ 1419  cd MyRepo/
+ 1420  touch stringLength.java
+ 1421  git init
+ 1422  git log
+ 1423  git log clear
+ 1424  clear
+ 1425  javac stringLength.java
+ 1426  clear
+ 1427  javac stringLength.java
+ 1428  java stringLength
+ 1429  clear
+ 1430  javac stringLength.java
+ 1431  java stringLength
+ 1432  git init
+ 1433  git status
+ 1434  git log
+ 1435  git status
+ 1436  git push origin master
+ 1437  git add stringLength.java
+ 1438  git remote add origin https://github.com/atharvanikte/DevOps-Experiment1
+ 1439  git branch -M main
+ 1440  git push -u origin main
+ 1441  git status
+ 1442  rm stringLength.class
+ 1443  git remote add origin https://github.com/atharvanikte/DevOps-Experiment1.git
+ 1444  git remote rm origin
+ 1445  git remote add origin https://github.com/atharvanikte/DevOps-Experiment1.git
+ 1446  git status
+ 1447  git push -u origin master
+ 1448  git config --global --list
+ 1449  git log
+ 1450  git push -u origin main
+ 1451  git commit -m "First commit"
+ 1452  git push -u origin main
+ 1453  git branch -M main
+ 1454  git push -u origin main
+ 1455  sudo git push -u origin main
+ 1456  sudo git remote -v
+ 1457  sudo git log
+ 1458  sudo git push origin main
+ 1459  git remote add origin https://github.com/atharvanikte/DevOps-Experiment1.git
+ 1460  git push origin master
+ 1461  sudo git push origin master
+ 1462  sudo git push origin main
+ 1463  git status
+ 1464  sudo git status
+ 1465  sudo git add stringLength.java
+ 1466  git status
+ 1467  sudo git add stringLength.java
+ 1468  ls
+ 1469  ls -l
+ 1470  ls -a
+ 1471  sudo git add stringLength.java
+ 1472  ls -l
+ 1473  sudo git clone https://github.com/atharvanikte/DevOps-Experiment1.git
+ 1474  git remote rm origin
+ 1475  git remote add origin https://github.com/atharvanikte/DevOps-Experiment1.git
+ 1476  git status
+ 1477  git add stringLength.java 
+ 1478  git status
+ 1479  git commit -m "Updated"
+ 1480  clear
+ 1481  git remote -v
+ 1482  clear
+ 1483  git init
+ 1484  git status
+ 1485  git add stringLength.java 
+ 1486  git status
+ 1487  git commit -m "First commit"
+ 1488  git remote add origin https://github.com/atharvanikte/DevOps-experiment3
+ 1489  git branch -M main
+ 1490  git push -u origin main
+ 1491  git push -u origin master
+ 1492  clear
+ 1493  ufw allow 25
+ 1494  sduo ufw allow 25
+ 1495  sudo ufw allow 25
+ 1496  sudo su
+ 1497  sudo systemctl enable jenkins
+ 1498  sudo systemctl start jenkins
+ 1499  sudo systemctl status jenkins
+ 1500  history command
+ 1501  sudo ufw status
+ 1502  sudo ufw allow 465
+ 1503  sudo ufw enable
+ 1504  sudo ufw status
+ 1505  pip install --upgrade pip
+ 1506  cd
+ 1507  ls
+ 1508  man
+ 1509  man ls
+ 1510  ls
+ 1511  ls -l
+ 1512  vi q.c
+ 1513  ls
+ 1514  vi exp7.c
+ 1515  ls
+ 1516  vi abc.c
+ 1517  ls
+ 1518  abc.txt
+ 1519  vi abc.txt
+ 1520  ls
+ 1521  ls -l
+ 1522  chmod +rwx abc.txt
+ 1523  vi abc.txt
+ 1524  man wc
+ 1525  wc abc.txt
+ 1526  vi abc.txt
+ 1527  head abc.txt
+ 1528  tail abc.txt
+ 1529  comm exp9.c expt9.c 
+ 1530  diff abc.txt prac5.c
+ 1531  ~                                                                               
+ 1532  vi Q.c
+ 1533  vi a.c
+ 1534  diff abc.txt a.c
+ 1535  comm abc.c a.c
+ 1536  history
+ 1537  git log
+ 1538  git reset
+ 1539  git log
+ 1540  git status
+ 1541  clear
+ 1542  telnet smtp.pepipost.com 25 [2525 | 465 ] 
+ 1543  telnet smtp.pepipost.com 25 [2525 | 587 ] 
+ 1544  telnet
+ 1545  telnet smtp.gmail.com 25 [2525 | 456]
+ 1546  telnet smtp.gmail.com 456
+ 1547  telnet smtp.gmail.com 587
+ 1548  clear
+ 1549  ls
+ 1550  cp
+ 1551  ls-l
+ 1552  ls
+ 1553  ls -l
+ 1554  mkdir
+ 1555  mkdir deeraj
+ 1556  ggggggg'
+ 1557  rmdir deeraj
+ 1558  rm
+ 1559  rm deeraj
+ 1560  mkdir deeraj
+ 1561  rm deeraj
+ 1562  rm 
+ 1563  rmdir deeraj
+ 1564  chmod man
+ 1565  chmod owner
+ 1566  wc
+ 1567  piping
+ 1568  grep
+ 1569  wc deeraj
+ 1570  wc abc.txt
+ 1571  piping abc.txt
+ 1572  type abc.txt
+ 1573  clear
+ 1574  ls
+ 1575  ls -l
+ 1576  cd
+ 1577  mkdir pilot
+ 1578  touch dhruv
+ 1579  mv dhruv ./pilot
+ 1580  ls ./pilot
+ 1581  rm dhruv
+ 1582  rm dhruv ./pilot
+ 1583  cd pilot
+ 1584  rm dhruv
+ 1585  ls
+ 1586  ls -l
+ 1587  cd
+ 1588  rmdir pilot
+ 1589  wc ds.txt
+ 1590  tr ds.txt
+ 1591  tr dhruv
+ 1592  man tr
+ 1593  tr -c dhruv
+ 1594  tr --c dhruv
+ 1595  echo dhruv
+ 1596  cat > hello.txt
+ 1597  history
+ 1598  mkdir "Experiment 4"
+ 1599  cd Experiment\ 4/
+ 1600  git init
+ 1601  git add hello.txt 
+ 1602  git commi -m "First commit"
+ 1603  git commit -m "First commit"
+ 1604  git branch -M main
+ 1605  git remote add origin https://github.com/atharvanikte/Experiment-4.git
+ 1606  git push -u origin main
+ 1607  git branches
+ 1608  git branch atharva
+ 1609  git merge
+ 1610  git merge atharva
+ 1611  git branch master
+ 1612  git branch atharva
+ 1613  git checkout master
+ 1614  git checkout main
+ 1615  git checkout atharva
+ 1616  git commit -m "Branch"
+ 1617  git push -u origin atharva
+ 1618  cat > test.txt
+ 1619  git commit -m "Adding a new file to the new branch 'Atharva'"
+ 1620  git add test.txt 
+ 1621  git commit -m "Adding a new file to the new branch 'Atharva'"
+ 1622  git push -u origin atharva 
+ 1623  mkdir test
+ 1624  cd test/
+ 1625  cat > newfile.txt
+ 1626  git add newfile.txt 
+ 1627  cd ..
+ 1628  mkdir test
+ 1629  cat > newfile.txt
+ 1630  cd test/
+ 1631  ls
+ 1632  git add newfile.txt 
+ 1633  git branch testbranch
+ 1634  git checkout testbranch 
+ 1635  ls
+ 1636  git commit -m "New commit"
+ 1637  git push -u origin testbranch
+ 1638  cd ..
+ 1639  cd Experiment\ 4/
+ 1640  cd test/
+ 1641  git add newfile.txt 
+ 1642  git commit -m "New commit"
+ 1643  branch checkout testbranch
+ 1644  git branch testbranch
+ 1645  git checkout testbranch
+ 1646  git push -u origin testbranch
+ 1647  ls
+ 1648  vim newfile.txt 
+ 1649  git add newfile.txt 
+ 1650  git commit -m "Some changes are made"
+ 1651  git push -u origin testbranch
+ 1652  git checkout master
+ 1653  git merge testbranch
+ 1654  cd ..
+ 1655  git merge testbranch
+ 1656  git checkout main
+ 1657  git merge testbranch
+ 1658  git push -u origin testbranch
+ 1659  git merge testbranch
+ 1660  git push -u origin main
+ 1661  git pull origin main
+ 1662  ls 
+ 1663  exit
+ 1664  cd sakshi
+ 1665  cd desktop
+ 1666  cd sakshi
+ 1667  cd Desktop
+ 1668  cd sakshi
+ 1669  git init
+ 1670  git add .
+ 1671  git commit -m "initial commit"
+ 1672  git checkout -b stage1 
+ 1673  git checkout stage1
+ 1674  git checkout stage1 
+ 1675  git push checkout stage1 
+ 1676  git push origin stage1 
+ 1677  git checkout -b [developer]
+ 1678  $ branch -a
+ 1679  git branch -a
+ 1680  git checkout -b [dev]
+ 1681  sudo systemctl enable jenkins
+ 1682  sudo systemctl start jenkins
+ 1683  sudo systemctl status jenkins
+ 1684  sudo systemctl enable jenkins
+ 1685  sudo systemctl start jenkins
+ 1686  cd desktop
+ 1687  cd Desktop
+ 1688  cd devOps_46
+ 1689  git init -b main
+ 1690  git add . && git commit -m "initial commit"
+ 1691  $ git init -b main
+ 1692  git init -b main
+ 1693  git add .
+ 1694  git commit -m "first commit"
+ 1695  git remote add origin <https://github.com/sakshiupadhyayy/exp4.git>
+ 1696  git remote add origin https://github.com/sakshiupadhyayy/exp4.git
+ 1697  git remote remove origin
+ 1698  git remote add origin https://github.com/sakshiupadhyayy/exp4.git
+ 1699  git remote -v
+ 1700  git push origin main
+ 1701  git status
+ 1702  git push -u testbranch
+ 1703  git push -u origin testbranch
+ 1704  git add .
+ 1705  git commit 
+ 1706  git commit -m "second commit"
+ 1707  n
+ 1708  Username for 'https://github.com': saksn
+ 1709  Username for 'https://github.com': git add .
+ 1710  git add .
+ 1711  git commit -m "initial commit"
+ 1712  git push -u origin testbranch
+ 1713  git branch
+ 1714  git checkout testbranch
+ 1715  git checkout -b dev
+ 1716  git push -u origin dev
+ 1717  git init 
+ 1718  git add README.md
+ 1719  git add .
+ 1720  git branch -M main
+ 1721  git checkout -b dev
+ 1722  clear
+ 1723  git clone https://github.com/sakshiupadhyayy/test1
+ 1724  git checkout -b update
+ 1725  cd test1
+ 1726  git push orihi
+ 1727  git commit -m "changed file"
+ 1728  git merge --no--ff update
+ 1729  git merge --no-ff update
+ 1730  git push -u origin update
+ 1731  git push origin update
+ 1732  ls
+ 1733  vim sakshi.py
+ 1734  git status
+ 1735  git add .
+ 1736  git status
+ 1737  git commit -m "change"
+ 1738  git status
+ 1739  git 
+ 1740  git push origin main
+ 1741  git branch -b update1
+ 1742  git checkout -b update1
+ 1743  git status
+ 1744  git add sakshi.py
+ 1745  git status
+ 1746  git commit -m "final commit"
+ 1747  git push origin update1
+ 1748  git merge main
+ 1749  cd p
+ 1750  sudo git init
+ 1751  cd .git
+ 1752  ls -l
+ 1753  sudo git branch
+ 1754  claer
+ 1755  sudo git init
+ 1756  cd .git
+ 1757  ls -l
+ 1758  sudo git branch
+ 1759  cd ..
+ 1760  sudo touch index.html
+ 1761  vi  index.html
+ 1762  cat index.html
+ 1763  sudo git add index.html
+ 1764  sudo git status
+ 1765  sudo git commit -m "This is my first commit"
+ 1766  git config --global user.email "pooja.mk@somaiya.edu"
+ 1767  git config --global user.name  "PoojaKothari24"
+ 1768  sudo git config --global user.email "pooja.mk@somaiya.edu"
+ 1769  sudo git config --global user.name  "PoojaKothari24"
+ 1770  sudo git commit -m "This is my first commit"
+ 1771  sudo git branch 
+ 1772  sudo vi dev.html
+ 1773  sudo git commit -m "This is Developer file"
+ 1774  ls
+ 1775  sudo git commit -a "This is Developer file"
+ 1776  sudo git branch b1
+ 1777  sudo git branch
+ 1778  sudo git checkout b1
+ 1779  sudo touch new.html
+ 1780  sudo vi new.html
+ 1781  clear
+ 1782  git log
+ 1783  sudo git checkout b1
+ 1784  sudo git branch
+ 1785  git checkout b1
+ 1786  git add new.html
+ 1787  git status
+ 1788  ls
+ 1789  ls -l
+ 1790  sudo git checkout dev
+ 1791  ls -l
+ 1792  sudo git checkout b1
+ 1793  sudo git commit -m "Second commit"
+ 1794  ls -l
+ 1795  git status
+ 1796  sudo git checkout dev
+ 1797  git log
+ 1798  git log status
+ 1799  git log
+ 1800  sudo git commit -m "This is Developer file"
+ 1801  git log
+ 1802  sudo git merge b1
+ 1803  git log
+ 1804  sudo git merge b1
+ 1805  who
+ 1806  whoami
+ 1807  su
+ 1808  0
+ 1809  clear
+ 1810  comm
+ 1811  l
+ 1812  cl
+ 1813  clear
+ 1814  who
+ 1815  whoami
+ 1816  su
+ 1817  who
+ 1818  whoami
+ 1819  su
+ 1820  sudo
+ 1821  login
+ 1822  sudo login
+ 1823  sudo adduser
+ 1824  sudo adduser john
+ 1825  sudo usermod john
+ 1826  sudo usermod
+ 1827  usermod
+ 1828  usermod john
+ 1829  usermod -s john
+ 1830  usermod -L john
+ 1831  sudo groupadd pilots
+ 1832  usermod -aG pilots john
+ 1833  sudo usermod -aG pilots john
+ 1834  sudo usermod -a pilots john
+ 1835  groupmod
+ 1836  groupmod -n pilots coders
+ 1837  groupadd coders
+ 1838  sudo groupadd coders
+ 1839  groupmod -n pilots coders
+ 1840  groupmod -n coders pilots
+ 1841  groupdel coders
+ 1842  sudo groupdel coders
+ 1843  groupmod -n coder pilots
+ 1844  sudo groupmod -n coders pilots
+ 1845  sudo groupdel coders
+ 1846  sudo userdel john
+ 1847  sudo adduser john
+ 1848  sudo chown john
+ 1849  man chown
+ 1850  sudo chown john aaaaa
+ 1851  sudo chown john curl
+ 1852  sudo chown john ds.txt
+ 1853  sudo chown root ds.txt
+ 1854  init 0
+ 1855  touch Cube.java
+ 1856  git init
+ 1857  touch cube.java
+ 1858  vim cube.java
+ 1859  rm cube.java 
+ 1860  touch Cube.java
+ 1861  vim Cube.java
+ 1862  cat Cube.java 
+ 1863  javac Cube.java
+ 1864  vim Cube.java
+ 1865  javac Cube.java
+ 1866  vim Cube.java
+ 1867  javac Cube.java
+ 1868  vim Cube.java
+ 1869  javac Cube.java
+ 1870  java Cube
+ 1871  git add Cube.java
+ 1872  git commit -m "Added Java file" 
+ 1873  git status
+ 1874  git log
+ 1875  git config --global --list
+ 1876  git config --global user.name "Atharva Nikte"
+ 1877  git config --global user.email "atharva.nikte@somaiya.edu"
+ 1878  git config --global --list
+ 1879  cat Cube.java 
+ 1880  git branch -M main
+ 1881  git remote add origin https://github.com/atharvanikte/DevOps-Assignment1.git
+ 1882  git push -u origin main
+ 1883  git add Cube.java 
+ 1884  git commit "File added"
+ 1885  git status
+ 1886  git commit -m "File added"
+ 1887  git log
+ 1888  git add Cube.java 
+ 1889  cat Cube.java 
+ 1890  javac Cube.java 
+ 1891  java Cube
+ 1892  javac Palindrome.java 
+ 1893  java Palindrome.java
+ 1894  history
+ 1895  javac Palindrome.java 
+ 1896  java Palindrome 
+ 1897  ls
+ 1898  javac Palindrome.java 
+ 1899  java Palindrome 
+ 1900  git add Palindrome.java
+ 1901  git commit -m "Palindrome file added"
+ 1902  git branch palindrome
+ 1903  git checkout palindrome
+ 1904  git push -u origin palindrome 
+ 1905  git checkout main
+ 1906  git merge palindorme
+ 1907  cd ..
+ 1908  git merge palindrome
+ 1909  git push -u origin main
+ 1910  history
+ 1911  git init
+ 1912  touch Cube.java
+ 1913  vim Cube.java 
+ 1914  cat Cube.java 
+ 1915  git add Cube.java 
+ 1916  git commit -m "Pushed java file"
+ 1917  git log
+ 1918  git branch -M main
+ 1919  git remote add origin https://github.com/atharvanikte/DevOps-Assignment.git
+ 1920  git push -u origin main
+ 1921  git log
+ 1922  git branch atharva
+ 1923  git checkout atharva 
+ 1924  vim Cube.java 
+ 1925  git status
+ 1926  git add Cube.java 
+ 1927  git status
+ 1928  git commit -m "Java file modified"
+ 1929  git log
+ 1930  git push -u origin atharva
+ 1931  mkdir palindrome
+ 1932  cd palindrome
+ 1933  touch palindrome.java
+ 1934  vim palindrome.java 
+ 1935  rm palindrome.java 
+ 1936  touch Palindrome.java
+ 1937  vim Palindrome.java 
+ 1938  vim Palindorme.java
+ 1939  cat Palindrome.java
+ 1940  vim Palindrome.java 
+ 1941  vim Palindorme.java
+ 1942  cat Palindrome.java
+ 1943  vim Palindorme.java
+ 1944  vim Palindrome.java
+ 1945  cd assign1
+ 1946  cd Desktop
+ 1947  git clone https://github.com/psawant27/t3_2023
+ 1948  cd Desktop
+ 1949  cd t3_2023
+ 1950  git init
+ 1951  git add star.c
+ 1952  git commit -m "initial commit"
+ 1953  git checkout-b star
+ 1954  git --help
+ 1955  git checkout -b sakshi
+ 1956  git remote add origin https://github.com/psawant27/t3_2023
+ 1957  git add star.c
+ 1958  git commit -m "sakshi"
+ 1959  git push -u origin 
+ 1960  git push --set-upstream origin sakshi
+ 1961  git status
+ 1962  git add .
+ 1963  git commit -m "sakshi commit"
+ 1964  git add .
+ 1965  git commit -m "second file"
+ 1966  git status
+ 1967  git add .
+ 1968  git commit -m " file"
+ 1969  git push --set-upstream origin sakshi
+ 1970  sudo systemtcl enable jenkins
+ 1971  sudo systemctl enable jenkins
+ 1972  sudo systemctl start jenkins
+ 1973  sudo systemctl status jenkins
+ 1974  sudo  apt install python3.8-venv
+ 1975  sudo apt upgrade
+ 1976  sudo apt update
+ 1977  py -m pip install Django
+ 1978  python -m pip install Django
+ 1979  python --version
+ 1980  django-admin --version
+ 1981  django-admin startproject my_SD
+ 1982  py manage.py runserver
+ 1983  python manage.py runserver
+ 1984  cd my_SD
+ 1985  python manage.py runserver
+ 1986  code .
+ 1987  py manage.py startapp members 
+ 1988  python manage.py startapp members 
+ 1989  git clone https://github.com/psawant27/t3_2023.git
+ 1990  git init
+ 1991  git status
+ 1992  git add .
+ 1993  git commit -m "first commit"
+ 1994  nano chirag.txt
+ 1995  cd t3_2023
+ 1996  ls
+ 1997  cls
+ 1998  cd ../.
+ 1999  cd ../
+ 2000  mkdir chirag1313
+ 2001  cd chirag1313
+ 2002  git init
+ 2003  git clone https://github.com/psawant27/t4.git
+ 2004  ls
+ 2005  cd t4
+ 2006  nano chirag12
+ 2007  ls
+ 2008  git status
+ 2009  git add .
+ 2010  git commit -m "chirag"
+ 2011  git push https://github.com/psawant27/t4.git
+ 2012  git --global config.email
+ 2013  git --global config user.email
+ 2014  git config user.email
+ 2015  git config user.email chiragrohada40@gmail.com
+ 2016  git config user.email
+ 2017  ls -a
+ 2018  cd .git
+ 2019  ls
+ 2020  cd config
+ 2021  nano config
+ 2022  cd ../
+ 2023  cd t4
+ 2024  git push https://github.com/psawant27/t4.git
+ 2025  git remote add origin 
+ 2026  git remote add origin https://github.com/psawant27/t4.git
+ 2027  git push origin
+ 2028  git push origin main
+ 2029  sudo git push origin main
+ 2030  clear
+ 2031  ls
+ 2032  ls -l
+ 2033  ls
+ 2034  cd ..
+ 2035  ls
+ 2036  cd t4/4
+ 2037  cd t4
+ 2038  git init
+ 2039  clear
+ 2040  ls
+ 2041  touch config > error.txt
+ 2042  sudo git add .
+ 2043  sudo git commit -m " Network files are present in this files"
+ 2044  sudo git branch chirag
+ 2045  sudo checkout chirag
+ 2046  sudo git checkout chirag
+ 2047  ls
+ 2048  python Hello.py > logpython.txt
+ 2049  python3 Hello.py > logpython.txt
+ 2050  cat logpython.txt 
+ 2051  python3 Hello.py > logpython.txt
+ 2052  sudo ipaddr > logpython.txt
+ 2053  sudo ipconfig > logpython.txt
+ 2054  sudo ipconfig > log.txt
+ 2055  sudo ifonfig > log.txt
+ 2056  sudo ifconfig > log.txt
+ 2057  clear
+ 2058  ls
+ 2059  cat ls -l
+ 2060  ls -l
+ 2061  git add log.txt
+ 2062  git branch
+ 2063  sudo git checkout main
+ 2064  git merge chirag
+ 2065  git checkout main
+ 2066  git checkout chirag 
+ 2067  clear
+ 2068  ls
+ 2069  git commit -m "second log"
+ 2070  sudo git commit -m "second log"
+ 2071  sudo git push origin chirag
+ 2072  sudo git checkout main
+ 2073  sudo git merge chirag
+ 2074  sudo git push origin main
+ 2075  sudo git remote add origin main https://github.com/psawant27/t4
+ 2076  sudo git remote add  main https://github.com/psawant27/t4
+ 2077  sudo git push orin main
+ 2078  sudo git push origin main
+ 2079  sudo git push origin chirag
+ 2080  sudo git -v
+ 2081  sudo git -V
+ 2082* sudo git 
+ 2083  ls
+ 2084  sudo git push origin main
+ 2085  cd .git/
+ 2086  ls
+ 2087  sudo vi config 
+ 2088  sudo git remote add origin main https://github.com/psawant27/t4
+ 2089  sudo git remote add ori.. main https://github.com/psawant27/t4
+ 2090  clear
+ 2091  ls
+ 2092  ls -l
+ 2093  sudo touch prashant
+ 2094  ls
+ 2095  sudo git brancjh
+ 2096  sudo git branch
+ 2097  sudo git branch chirag_rohda_New
+ 2098  sudo git branch chirag_rohda_New 
+ 2099  sudo git checkout chirag_rohda_New 
+ 2100  ls
+ 2101  sudo git checkout chirag_rohda_New 
+ 2102  ls
+ 2103  cd ..
+ 2104  sudo git checkout chirag_rohda_New 
+ 2105  clear
+ 2106  ls
+ 2107  sudo touch prashantsawant
+ 2108  sudo git commit -m " this is committe performed by prashant sir to verify permission denied"
+ 2109  sudo git add .
+ 2110  sudo git commit -m " this is committe performed by prashant sir to verify permission denied"
+ 2111  sudo git remote -v
+ 2112  sudo git remote add origin main https://github.com/psawant27/t4
+ 2113  sudo git remote add origin https://github.com/psawant27/t4
+ 2114  sudo git push origin main
+ 2115  sudo git remote -v
+ 2116  ls
+ 2117  sudo git push origin master
+ 2118  git branch
+ 2119  git push origin main
+ 2120  git branch
+ 2121  git push origin chirag_rohda_New
+ 2122  ls
+ 2123  cat prashantsawant 
+ 2124  history
+ 2125  history > backup
